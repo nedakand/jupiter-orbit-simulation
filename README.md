@@ -9,17 +9,8 @@ using numerical integration of Newtonian gravity.
 - Visualizes the spacecraft trajectory and velocity over time
 - Stops the simulation if the spacecraft crashes or escapes
 
-## Concepts Demonstrated
+## Concepts
 - Numerical integration of equations of motion
 - Vector-based force calculations
 - Simulation stability and termination conditions
 - Data visualization
-
-## Technologies
-- Python
-- VPython
-
-## What I Learned
-- Translating physical models into code
-- Debugging numerical instability
-- Visualizing simulation outputs to analyze behavior
