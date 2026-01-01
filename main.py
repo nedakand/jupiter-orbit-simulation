@@ -1,6 +1,7 @@
 """
 Simulates a spacecraft gravity assist around Jupiter using numerical integration.
 Tracks velocity change and visualizes trajectory and speed over time.
+Graphs a velocity vs time graph to further help visualize the effects of gravity.
 """
 
 # Constants
